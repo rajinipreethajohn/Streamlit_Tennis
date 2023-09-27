@@ -11,7 +11,7 @@ url = 'https://raw.githubusercontent.com/rajinipreethajohn/Streamlit_Tennis/main
 # Read the CSV file
 df = pd.read_csv(url)
 
-st.write("No commas: ")
+st.write("")
 s = df.style.format({"Expense": lambda x : '{:.4f}'.format(x)})
 st.dataframe(s)
 
