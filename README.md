@@ -28,4 +28,4 @@ Simply click on the 'Visit Streamlit App' on the top of this document and you wi
 
 ## About
 
-This Streamlit app is created by [Rajini Preetha JOHN]. Feel free to reach out to me if you have any questions or suggestions.
+This Streamlit app is created by Rajini Preetha JOHN. Feel free to reach out to me if you have any questions or suggestions.
