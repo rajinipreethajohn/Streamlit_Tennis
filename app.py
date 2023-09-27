@@ -6,7 +6,7 @@ import plotly.express as px
 st.title('Tennis 🎾 Grand Slam Winners 🏆 1950-2023')
 
 # URL of the CSV file
-url = '/Users/pree/Desktop/Mens_Tennis_Grand_Slam_Winner.csv'
+url = 'https://raw.githubusercontent.com/rajinipreethajohn/Streamlit_Tennis/main/tennis.csv'
 
 # Read the CSV file
 df = pd.read_csv(url)
